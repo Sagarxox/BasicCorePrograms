@@ -13,14 +13,7 @@ namespace project
 
 
 
-             FlipCoin.CalculatePercentage();
-
-            // Power2.Power();
-
-            //  HarmonicNumber.Harmonic();
-
-           //  Factors.PrimeFactor();
-            
+            Console.WriteLine( "Basic Core Programs");
 
 
 

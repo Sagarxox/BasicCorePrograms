@@ -20,8 +20,9 @@ namespace project
             //  QuotientRemainder.Check();
             // SwapNumber.Number();
             //EvenOdd.Check();
-            VowelAndConstant.Alphabet();
-        }
+            //VowelAndConstant.Alphabet();
+            LargestNumber.Check();
+        }     
         
     }
 }

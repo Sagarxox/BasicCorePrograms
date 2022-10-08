@@ -19,8 +19,8 @@ namespace project
             //Factors.PrimeFactor();
             //  QuotientRemainder.Check();
             // SwapNumber.Number();
-            EvenOdd.Check();
-
+            //EvenOdd.Check();
+            VowelAndConstant.Alphabet();
         }
         
     }

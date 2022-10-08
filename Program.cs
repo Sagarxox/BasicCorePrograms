@@ -14,10 +14,9 @@ namespace project
 
             //LeapYear.Check();
             // FlipCoin.CalculatePercentage();
+           //Power2.Power();
 
-            Power2.Power();
-
-            
+            HarmonicNumber.Harmonic();
 
 
 

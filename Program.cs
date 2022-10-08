@@ -10,10 +10,11 @@ namespace project
         static void Main(string[] args)
 
         {
+              
 
 
+            FlipCoin.CalculatePercentage();
 
-            Console.WriteLine( "Basic Core Programs");
 
 
 

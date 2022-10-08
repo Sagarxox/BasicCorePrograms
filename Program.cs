@@ -18,8 +18,8 @@ namespace project
             // HarmonicNumber.Harmonic();
             //Factors.PrimeFactor();
             //  QuotientRemainder.Check();
-            SwapNumber.Number();
-
+            // SwapNumber.Number();
+            EvenOdd.Check();
 
         }
         

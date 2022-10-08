@@ -12,10 +12,12 @@ namespace project
         {
 
 
+            //LeapYear.Check();
+            // FlipCoin.CalculatePercentage();
 
-            //   FlipCoin.CalculatePercentage();
+            Power2.Power();
 
-            LeapYear.Check();
+            
 
 
 

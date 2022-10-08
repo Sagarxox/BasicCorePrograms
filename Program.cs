@@ -10,11 +10,12 @@ namespace project
         static void Main(string[] args)
 
         {
-              
 
 
-            FlipCoin.CalculatePercentage();
 
+            //   FlipCoin.CalculatePercentage();
+
+            LeapYear.Check();
 
 
 

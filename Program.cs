@@ -17,7 +17,8 @@ namespace project
             //Power2.Power(); 
             // HarmonicNumber.Harmonic();
             //Factors.PrimeFactor();
-            QuotientRemainder.Check();
+            //  QuotientRemainder.Check();
+            SwapNumber.Number();
 
 
         }
